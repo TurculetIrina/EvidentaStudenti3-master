@@ -1,0 +1,22 @@
+D:\3121A\EvidentaStudenti\LibrarieEntitati\bin\Debug\LibrarieEntitati.dll
+D:\3121A\EvidentaStudenti\LibrarieEntitati\bin\Debug\LibrarieEntitati.pdb
+D:\3121A\EvidentaStudenti\LibrarieEntitati\obj\Debug\LibrarieEntitati.csprojAssemblyReference.cache
+D:\3121A\EvidentaStudenti\LibrarieEntitati\obj\Debug\LibrarieEntitati.csproj.CoreCompileInputs.cache
+D:\3121A\EvidentaStudenti\LibrarieEntitati\obj\Debug\LibrarieEntitati.dll
+D:\3121A\EvidentaStudenti\LibrarieEntitati\obj\Debug\LibrarieEntitati.pdb
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti\LibrarieEntitati\bin\Debug\LibrarieEntitati.dll
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti\LibrarieEntitati\bin\Debug\LibrarieEntitati.pdb
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti\LibrarieEntitati\obj\Debug\LibrarieEntitati.csprojAssemblyReference.cache
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti\LibrarieEntitati\obj\Debug\LibrarieEntitati.dll
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti\LibrarieEntitati\obj\Debug\LibrarieEntitati.pdb
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti2\LibrarieEntitati\bin\Debug\LibrarieEntitati.dll
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti2\LibrarieEntitati\bin\Debug\LibrarieEntitati.pdb
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti2\LibrarieEntitati\obj\Debug\LibrarieEntitati.csprojAssemblyReference.cache
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti2\LibrarieEntitati\obj\Debug\LibrarieEntitati.dll
+C:\Users\Andronic Tudor\Desktop\stick\PIU\EvidentaStudenti2\LibrarieEntitati\obj\Debug\LibrarieEntitati.pdb
+D:\facultate\Anul IV- sem II\PIU\EvidentaStudenti3-master\EvidentaStudenti3-master\LibrarieEntitati\bin\Debug\LibrarieEntitati.dll
+D:\facultate\Anul IV- sem II\PIU\EvidentaStudenti3-master\EvidentaStudenti3-master\LibrarieEntitati\bin\Debug\LibrarieEntitati.pdb
+D:\facultate\Anul IV- sem II\PIU\EvidentaStudenti3-master\EvidentaStudenti3-master\LibrarieEntitati\obj\Debug\LibrarieEntitati.csprojAssemblyReference.cache
+D:\facultate\Anul IV- sem II\PIU\EvidentaStudenti3-master\EvidentaStudenti3-master\LibrarieEntitati\obj\Debug\LibrarieEntitati.csproj.CoreCompileInputs.cache
+D:\facultate\Anul IV- sem II\PIU\EvidentaStudenti3-master\EvidentaStudenti3-master\LibrarieEntitati\obj\Debug\LibrarieEntitati.dll
+D:\facultate\Anul IV- sem II\PIU\EvidentaStudenti3-master\EvidentaStudenti3-master\LibrarieEntitati\obj\Debug\LibrarieEntitati.pdb
